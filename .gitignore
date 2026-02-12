@@ -1,0 +1,14 @@
+# Fichiers temporaires Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Fichiers système
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs/temporaires divers
+*.log
+*.tmp
+*.bak
